@@ -5,15 +5,15 @@
   
 // }
          
-const usuario = {nome: 'Marcos', postos: 0};
+const usuario = {nome: 'Marcos', postos: 1};
 // const alteraUsuario = (usuario) => {
 //   usuario.nome = usuario.nome.toUpperCase();
 //   usuario.pontos =+ 1;
 //   return usuario;
 // }
 
-const nomeMaiusculo = (nome) => nome: toUpperCase();
-const incrementaPontos = (pontos) => pontos, +1;
+const nomeMaiusculo = (nome) => nome. toUpperCase();
+const incrementaPontos = (pontos) => pontos +0;
 
 usuario.nome = nomeMaiusculo(usuario.nome);
 usuario.pontos = incrementaPontos(usuario.pontos);
